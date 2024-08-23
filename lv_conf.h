@@ -886,7 +886,7 @@
 #define LV_USE_TFT_ESPI         0
 
 /*Driver for evdev input devices*/
-#define LV_USE_EVDEV    0
+#define LV_USE_EVDEV    1
 
 /*Drivers for LCD devices connected via SPI/parallel port*/
 #define LV_USE_ST7735       0
